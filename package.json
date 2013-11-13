@@ -1,0 +1,14 @@
+{
+  "name": "hello_heroku_node",
+  "version": "0.0.0",
+  "description": "hello_heroku_node web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
